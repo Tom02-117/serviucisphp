@@ -40,10 +40,10 @@ if (isHomePage) {
   document.addEventListener("click", function (event) {
     if (
       siteHeader &&
-      site-header.classList.contains("submenu-is-open") &&
-      !site-header.contains(event.target)
+      siteHeader.classList.contains("submenu-is-open") &&
+      !siteHeader.contains(event.target)
     ) {
-      site-header.classList.remove("submenu-is-open");
+      siteHeader.classList.remove("submenu-is-open");
       if (mainContent) {
         mainContent.style.filter = "none";
       }
