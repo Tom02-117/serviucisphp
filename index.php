@@ -34,7 +34,7 @@
                 <h1 class="hero-headline slide-up">Serviucis</h1>
                 <h2 class="hero-subhead slide-up">Cuidado Crítico con Calidad Humana</h2>
                 <div class="hero-cta slide-up">
-                    <a href="submenu/sedeR.html" class="hero-cta-link">Nuestras Sedes</a>
+                    <a href="sedeR.php" class="hero-cta-link">Nuestras Sedes</a>
                     <a href="#contacto" class="hero-cta-link">Contáctanos</a>
                 </div>
             </div>
@@ -51,21 +51,21 @@
                         <h3>Tu Voz es Importante</h3>
                         <p>Utiliza nuestro buzón de PQRSD para compartir tus peticiones, quejas, reclamos, sugerencias o
                             denuncias. Estamos aquí para escucharte.</p>
-                        <a href="submenu/secondary/Buzon.html" class="btn">Ir al Buzón</a>
+                        <a href="Buzon.php" class="btn">Ir al Buzón</a>
                     </div>
 
                     <div class="pilar-item hidden">
                         <h3>Calidad y Academia</h3>
                         <p>Conoce cómo nuestro sistema de gestión integral y nuestro compromiso con la academia
                             garantizan la seguridad y la excelencia en cada atención.</p>
-                        <a href="submenu/extra/serviciosYCalidad.html" class="btn">Ver Más</a>
+                        <a href="serviciosYCalidad.php" class="btn">Ver Más</a>
                     </div>
 
                     <div class="pilar-item hidden">
                         <h3>Nuestras Políticas</h3>
                         <p>La confianza se basa en la transparencia. Consulta nuestras políticas de tratamiento de datos
                             y otros documentos corporativos de interés.</p>
-                        <a href="submenu/secondary/politicas.html" class="btn">Leer Políticas</a>
+                        <a href="politicas.php" class="btn">Leer Políticas</a>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                     <h3>Pacientes y Familiares</h3>
                     <p>Accede a información útil, horarios de visita y respuestas a tus preguntas más frecuentes para
                         acompañar a tus seres queridos.</p>
-                    <a href="submenu/secondary/preguntasFrecuentes.html" class="btn">Ir a FAQ</a>
+                    <a href="preguntasFrecuentes.php" class="btn">Ir a FAQ</a>
                 </div>
             </div>
             <div class="promo-card promo-card--esencia hidden">
@@ -85,7 +85,7 @@
                     <h3>Nuestra Esencia</h3>
                     <p>Conoce la historia, misión y los valores de calidad, respeto y compromiso que guían nuestro
                         trabajo diario para salvar vidas.</p>
-                    <a href="submenu/quienesSomos.html" class="btn">Quiénes Somos</a>
+                    <a href="quienesSomos.php" class="btn">Quiénes Somos</a>
                 </div>
             </div>
         </section>
@@ -102,7 +102,7 @@
                         garantiza acceso y oportunidad.</p>
                     <p>Descubre la tecnología de punta, los equipos humanos y la ubicación exacta de cada una de
                         nuestras unidades.</p>
-                    <a href="submenu/sedeR.html" class="btn">Explorar Nuestras Sedes</a>
+                    <a href="sedeR.php" class="btn">Explorar Nuestras Sedes</a>
                 </div>
             </div>
         </section>
