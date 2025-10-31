@@ -27,12 +27,8 @@
                 </div>
             </div>
             <div class="hero-content">
-                <h1 class="hero-headline slide-up">Serviucis</h1>
-                <h2 class="hero-subhead slide-up">Cuidado Crítico con Calidad Humana</h2>
-                <div class="hero-cta slide-up">
-                    <a href="submenu/sedeR.html" class="hero-cta-link">Nuestras Sedes</a>
-                    <a href="#contacto" class="hero-cta-link">Contáctanos</a>
-                </div>
+                <h1 class="hero-headline slide-up">El Corazón de Serviucis</h1>
+                <h2 class="hero-subhead slide-up">Somos una organización privada especializada en la operación de unidades médicas de alta complejidad, comprometida con la excelencia, la viabilidad y la calidad humana en cada paso.</h2>
             </div>
         </section>
 
