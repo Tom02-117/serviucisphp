@@ -40,7 +40,7 @@
             </div>
             <div class="footer-legal">
                 <span>© 2025 Serviucis S.A.S. Todos los derechos reservados.</span>
-                <a href="submenu/secondary/politicas.html">Política de Privacidad</a>
+                <a href="politicas.php">Política de Privacidad</a>
                 <span>Desarrollado por Departamento de Sistemas Serviucis S.A.S</span>
             </div>
         </div>
