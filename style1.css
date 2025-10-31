@@ -116,7 +116,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
-  height: 70px;
+  height: 7px;
   
 }
 
@@ -1013,7 +1013,7 @@ blockquote.mission-statement {
   text-shadow: 0 2px 15px rgba(0, 0, 0, 0.6);
 }
 .hero-subhead {
-  font-size: clamp(1.2rem, 2.5vw, 1.7rem);
+  font-size: clamp(1.2rem, 2.5vw,);
   font-weight: 400;
   max-width: 650px;
   margin: 0 auto 2.5rem auto;
@@ -1485,4 +1485,3 @@ blockquote.mission-statement {
     border-left: none;
   }
 }
-
