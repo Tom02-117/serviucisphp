@@ -115,7 +115,7 @@
                         </select>
                     </div>
 
-                    <label for="cv-link">Enlace a tu Hoja de Vida</label>
+                    <label for="cv-link">Enlace a tu Hoja de Vida (Sube tu currículum a drive y copia el enlace aquí)</label>
                     <input type="url" id="cv-link" name="Enlace Hoja de Vida" placeholder="https://drive.google.com/..."
                         required>
 
