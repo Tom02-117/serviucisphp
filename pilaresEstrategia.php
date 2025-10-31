@@ -28,12 +28,8 @@
                 </div>
             </div>
             <div class="hero-content">
-                <h1 class="hero-headline slide-up">Serviucis</h1>
-                <h2 class="hero-subhead slide-up">Cuidado Crítico con Calidad Humana</h2>
-                <div class="hero-cta slide-up">
-                    <a href="submenu/sedeR.html" class="hero-cta-link">Nuestras Sedes</a>
-                    <a href="#contacto" class="hero-cta-link">Contáctanos</a>
-                </div>
+                <h1 class="hero-headline slide-up">Modelo de Atención</h1>
+                <h2 class="hero-subhead slide-up">Nuestra estrategia se basa en la excelencia, la tecnología y el trato humano.</h2>
             </div>
         </section>
         
