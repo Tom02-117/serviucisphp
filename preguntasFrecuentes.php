@@ -127,7 +127,7 @@
         <h3>¿No encontraste tu respuesta?</h3>
         <p>Nuestro equipo está aquí para ayudarte. Contáctanos directamente a través de nuestro buzón de PQRSD y te
           responderemos a la brevedad.</p>
-        <a href="Buzon.html" class="btn">Contactar Ahora</a>
+        <a href="Buzon.php" class="btn">Contactar Ahora</a>
       </div>
     </section>
 
