@@ -18,10 +18,10 @@
         <section class="page-hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Equipo médico de Serviucis colaborando">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Personal de enfermería atendiendo a un paciente">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
                     <img src="img/asistencial.jpg">
@@ -132,3 +132,4 @@
 </body>
 
 </html>
+
