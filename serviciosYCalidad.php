@@ -92,8 +92,7 @@
         <section class="feature-section" id="academia">
             <div class="feature-container">
                 <div class="image-fade-container image-fade-container--left">
-                    <img src="img/Gemini_Generated_Image_hwnxakhwnxakhwnx.png"
-                        alt="Equipo médico en una sesión de formación académica, discutiendo resultados.">
+                    <img src="img/Gemini_Generated_Image_hwnxakhwnxakhwnx.png">
                 </div>
                 <div class="feature-text hidden">
                     <h2>Liderazgo Académico</h2>
