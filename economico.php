@@ -18,13 +18,13 @@
         <section class="page-hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de Serviucis">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Equipo médico en una UCI">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/asistencial.jpg" alt="Equipo de monitoreo avanzado en una unidad de cuidados intensivos">
+                    <img src="img/asistencial.jpg">
                 </div>
             </div>
             <div class="page-hero-content">
