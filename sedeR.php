@@ -18,13 +18,13 @@
         <section class="page-hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de Serviucis">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Letrero corporativo de Serviucis">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/asistencial.jpg" alt="Equipo médico de alta tecnología">
+                    <img src="img/asistencial.jpg">
                 </div>
             </div>
             <div class="page-hero-content">
@@ -52,7 +52,7 @@
                     </div>
                 </div>
                 <div class="image-fade-container">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de la sede Serviucis Rionegro">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
             </div>
         </section>
