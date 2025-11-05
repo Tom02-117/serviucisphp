@@ -17,13 +17,13 @@
                     <ul>
                         <li>
                             <a href="https://www.facebook.com/Serviucis/" target="_blank">
-                                <img src="img/20673.png" alt="Facebook Icon">
+                                <img src="img/20673.png">
                                 <span>Facebook</span>
                             </a>
                         </li>
                         <li>
                             <a href="https://www.instagram.com/serviucissas/" target="_blank">
-                                <img src="img/1a179ff9617a9bf05426d9170b164557.png" alt="Instagram Icon">
+                                <img src="img/1a179ff9617a9bf05426d9170b164557.png" >
                                 <span>Instagram</span>
                             </a>
                         </li>
@@ -45,3 +45,4 @@
             </div>
         </div>
     </footer>
+
