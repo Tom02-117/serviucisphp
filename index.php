@@ -20,14 +20,13 @@
         <section class="hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de la sede de Serviucis en Rionegro">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Letrero corporativo de Serviucis">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/asistencial.jpg"
-                        alt="Equipo de monitoreo avanzado en una unidad de cuidados intensivos">
+                    <img src="img/asistencial.jpg">
                 </div>
             </div>
             <div class="hero-content">
@@ -93,7 +92,7 @@
         <section class="feature-section" id="sedes">
             <div class="feature-container">
                 <div class="image-fade-container image-fade-container--left">
-                    <img src="img/fachada.jpg" alt="Fachada de la sede Serviucis Urabá">
+                    <img src="img/fachada.jpg">
                 </div>
                 <div class="feature-text hidden">
                     <h2>Dos ubicaciones, un solo compromiso</h2>
