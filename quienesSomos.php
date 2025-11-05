@@ -16,14 +16,13 @@
         <section class="hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de la sede de Serviucis en Rionegro">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Letrero corporativo de Serviucis">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/asistencial.jpg"
-                        alt="Equipo de monitoreo avanzado en una unidad de cuidados intensivos">
+                    <img src="img/asistencial.jpg">
                 </div>
             </div>
             <div class="hero-content">
@@ -50,7 +49,7 @@
     <section class="feature-section" id="valores">
         <div class="about-grid">
             <div class="image-fade-container image-fade-container--left">
-                <img src="img/FACHADARENEW1.jpg" alt="Fachada de una de las sedes de Serviucis">
+                <img src="img/FACHADARENEW1.jpg" >
             </div>
             <div class="text-column hidden">
                 <h2>Nuestros Valores</h2>
@@ -76,7 +75,7 @@
                 <p>Continuamos innovando para mejorar la salud de la comunidad, fortalecer el talento humano y proteger el medio ambiente, operando siempre bajo los más rigurosos principios éticos y de responsabilidad social.</p>
             </div>
             <div class="image-fade-container">
-                <img src="img/sede_ap.2.jpg" alt="Sede Apartadó de Serviucis">
+                <img src="img/sede_ap.2.jpg">
             </div>
         </div>
     </section>
