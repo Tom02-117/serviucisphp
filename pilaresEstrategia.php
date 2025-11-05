@@ -17,14 +17,13 @@
                 <section class="hero">
             <div class="carousel">
                 <div class="carousel-slide active">
-                    <img src="img/FACHADARENEW2.jpg" alt="Fachada de la sede de Serviucis en Rionegro">
+                    <img src="img/FACHADARENEW2.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/puerta.jpg" alt="Letrero corporativo de Serviucis">
+                    <img src="img/puerta.jpg">
                 </div>
                 <div class="carousel-slide">
-                    <img src="img/asistencial.jpg"
-                        alt="Equipo de monitoreo avanzado en una unidad de cuidados intensivos">
+                    <img src="img/asistencial.jpg">
                 </div>
             </div>
             <div class="hero-content">
@@ -41,7 +40,7 @@
                     <p>Este enfoque se fundamenta en marcos legales como la Ley 812 de 2003, la Ley 1151 de 2007, y los lineamientos del CONPES, que permiten nuevas formas de operación para mejorar la prestación de servicios.</p>
                 </div>
                 <div class="image-fade-container">
-                    <img src="img/20250703_144526.1.jpg" alt="Reunión de equipo estratégico Serviucis">
+                    <img src="img/20250703_144526.1.jpg">
                 </div>
             </div>
         </section>
@@ -49,7 +48,7 @@
         <section class="feature-section" style="background-color: var(--background-white);">
             <div class="feature-container">
                 <div class="image-fade-container image-fade-container--left">
-                    <img src="img/Gemini_Generated_Image_exhmmyexhmmyexhm.png" alt="Sala de UCI con tecnología avanzada">
+                    <img src="img/Gemini_Generated_Image_exhmmyexhmmyexhm.png">
                 </div>
                 <div class="feature-text hidden">
                     <h2>Infraestructura Física y Tecnológica de Punta</h2>
@@ -67,7 +66,7 @@
                     <p>Todo nuestro personal es rigurosamente seleccionado y capacitado. Nos regimos por guías y protocolos basados en la mejor evidencia científica mundial, y desde 2007, nuestro sistema de Historia Clínica Electrónica (Hosvital) optimiza la atención, garantiza registros en tiempo real y asegura la confidencialidad de la información del paciente.</p>
                 </div>
                 <div class="image-fade-container">
-                    <img src="img/Gemini_Generated_Image_hwnxakhwnxakhwnx.png" alt="Equipo médico de Serviucis colaborando">
+                    <img src="img/Gemini_Generated_Image_hwnxakhwnxakhwnx.png">
                 </div>
             </div>
         </section>
