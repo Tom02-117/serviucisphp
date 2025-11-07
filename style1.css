@@ -116,7 +116,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: stretch;
-  height: 7px;
+  height: 70px;
   
 }
 
@@ -826,7 +826,7 @@ blockquote.mission-statement {
   overflow: hidden;
 }
 .document-header {
-  padding: 40px;
+
   text-align: center;
 }
 .document-viewer {
@@ -1006,14 +1006,14 @@ blockquote.mission-statement {
   }
 }
 .hero-headline {
-  font-size: clamp(3.5rem, 7vw, 6rem);
+  font-size: clamp(3.5rem, 7vw);
   font-weight: 700;
   margin-bottom: 0.5rem;
   letter-spacing: -2px;
   text-shadow: 0 2px 15px rgba(0, 0, 0, 0.6);
 }
 .hero-subhead {
-  font-size: clamp(1.2rem, 2.5vw,);
+  font-size: clamp(1.2rem, 2.5vw, 1.7rem);
   font-weight: 400;
   max-width: 650px;
   margin: 0 auto 2.5rem auto;
